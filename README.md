@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BadreddineBOUSBA
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning backend languages
+- 🌱 I’m currently learning Java and its related technologies ( Spring framework, J2EE, ...)
 
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BadreddineBOUSBA
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Java and its related technologies ( Spring framework, JEE, ...)
+- 👀 Interested in software development
+- 🌱 Currently working with Java and its related technologies ( Spring framework, JEE, ...)
 
 
 <!---
